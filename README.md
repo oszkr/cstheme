@@ -1,4 +1,4 @@
-cstheme
+CSTheme
 =======
 
 Window Skinning Library
