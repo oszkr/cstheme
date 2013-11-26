@@ -1,4 +1,4 @@
 CSTheme
 =======
 
-Window Skinning Library
+Open Source Window Skinning Library
